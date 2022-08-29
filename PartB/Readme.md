@@ -1,5 +1,6 @@
 
-## Trying out interesting online AI demos with creative inputs-
+## Trying out interesting online AI demos with creative inputs-  
+# YouTube Link : https://youtu.be/8X_FwqAa7wg
 
 I have used Huggingface and tried many the interesting demos like Dalle mini, stable diffusion, ArcaneGAN, Crayon.ai -
 
