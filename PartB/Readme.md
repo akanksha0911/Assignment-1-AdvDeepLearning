@@ -5,6 +5,8 @@ I have used Huggingface and tried many the interesting demos like Dalle mini, st
 
 <img width="1619" alt="Screen Shot 2022-08-29 at 1 56 56 PM" src="https://user-images.githubusercontent.com/77387431/187300641-685225ff-4f3f-4c14-9179-65c5e8f497b9.png">
 
+<img width="781" alt="image" src="https://user-images.githubusercontent.com/77387431/187302160-abc5461a-1077-4a7f-b11a-968b41d91340.png">
+
 
 <img width="1651" alt="Screen Shot 2022-08-29 at 1 50 35 PM" src="https://user-images.githubusercontent.com/77387431/187300909-0837ef73-bb33-41ce-847c-d156198ab8b1.png">
 
