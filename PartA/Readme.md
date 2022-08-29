@@ -15,3 +15,8 @@
 
 # Results generated 
 ![image](https://user-images.githubusercontent.com/77387431/187303747-01c67774-3aba-4197-ac14-a346169f80ac.png)
+
+
+# I explored front end , a simple html page implementation using HTML with Github Copilot
+
+<img width="1672" alt="image" src="https://user-images.githubusercontent.com/77387431/187306406-6c2d15c7-a824-45c0-a902-a285abe04242.png">
