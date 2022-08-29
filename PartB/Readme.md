@@ -1,5 +1,5 @@
 
-trying out interesting online AI demos with creative inputs-
+## Trying out interesting online AI demos with creative inputs-
 
 I have used Huggingface and tried many the interesting demos like Dalle mini, stable diffusion, ArcaneGAN, Crayon.ai -
 
